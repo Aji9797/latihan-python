@@ -34,7 +34,7 @@ hasil = a ** b
 print (a,'**',b,'=',hasil)
 
 
-#Operasi Modulus %
+#Operasi Modulus % (Sisa Dari Pembagian)
 hasil = a % b
 print (a,'%',b,'=',hasil)
 

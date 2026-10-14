@@ -28,7 +28,7 @@ print("Nilai a = ",a)
 a = 7
 print("Niali a = ",a)
 
-#assigment indirect (Memasukan Dari huruf ke huruf buakn angka)
+#assigment indirect (Memasukan Dari huruf ke huruf bukan angka)
 b = a
 
 print("Niali b = ",b)
